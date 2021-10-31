@@ -51,7 +51,8 @@ body {
 
 .section-two {
     height: 800px;
-    background-image: url("images/Rectangle.png") no-repeat;
+    background-image: url("images/Rectangle.png");
+    background-repeat: no-repeat;
     background-color: #996B60;
     position: relative;
 }
