@@ -463,7 +463,7 @@ color: #000;
     width: 1440px;
     height: 568px;
     vertical-align: bottom;
-    background-image: url('./images/Rectangle\ \(7\).png');
+    background-image: url("images/Rectangle\ \(7\).png");
     background-color: #191919;
 }
 
